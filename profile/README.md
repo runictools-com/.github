@@ -1,24 +1,29 @@
 <div align="center">
-  <a href="https://runictools.com">
-    <img src="https://runictools.com/assets/brand/runictools-mark.svg" width="88" height="88" alt="RunicTools" />
-  </a>
-  <h1>RunicTools</h1>
-  <p>Small, focused tools for tabletop games, videogames, and collaborative work.</p>
-  <p><a href="https://runictools.com"><strong>Open the tool index →</strong></a></p>
+
+<img src="https://raw.githubusercontent.com/runictools-com/.github/main/docs/assets/banner.png" width="100%" alt="RunicTools — ferramentas pequenas, trabalho bem documentado">
+
+# RunicTools
+
+Ferramentas para jogos, RPG de mesa, organização e exploração de dados.
+
+[Índice de aplicações](https://runictools.com) · [English](https://github.com/runictools-com/.github/blob/main/profile/README.en.md)
+
 </div>
 
-## Tools
+## Explore os projetos
 
-| Tool | What it does |
+As aplicações abaixo já fazem parte do catálogo público da organização. Consulte cada produto para conhecer sua cobertura e seus requisitos.
+
+| Aplicação | O que faz |
 | --- | --- |
-| [Boardroom](https://kanban.runictools.com) | Shared Kanban, notes, team chat, and server monitoring |
-| [Game Promo Ranker](https://gamepromo.runictools.com) | Ranks videogame promotions by price history and quality |
-| [Mesa20](https://mesa20.runictools.com) | Collaborative character sheets and virtual tables for tabletop RPGs |
-| [P3R 100% Guide](https://p3r.runictools.com) | Complete schedule for Persona 3 Reload |
-| [P5R 100% Guide](https://p5r.runictools.com) | Complete schedule for Persona 5 Royal |
-| [Pokefinder](https://pokefinder.runictools.com) | Finds where each Pokémon appears across games |
-| [WaaahGame](https://waaah.runictools.com) | PT-BR companion for Age of Sigmar, Warhammer 40K, and Trench Crusade |
+| [Boardroom](https://kanban.runictools.com) | Kanban compartilhado, notas, conversa e monitoramento. |
+| [Game Promo Ranker](https://gamepromo.runictools.com) | Promoções de jogos com ranking e contexto de preço. |
+| [Mesa20](https://mesa20.runictools.com) | Fichas e mesas colaborativas para RPG. |
+| [P3R 100% Guide](https://p3r.runictools.com) | Cronograma de Persona 3 Reload. |
+| [P5R 100% Guide](https://p5r.runictools.com) | Cronograma de Persona 5 Royal. |
+| [Pokefinder](https://pokefinder.runictools.com) | Consulta de encontros de Pokémon por jogo. |
+| [WaaahGame](https://waaah.runictools.com) | Companion para Age of Sigmar, Warhammer 40K e Trench Crusade. |
 
-## How we work
+## Colabore
 
-RunicTools is maintained collaboratively. Changes are made on short-lived branches, reviewed in pull requests, and deployed only after each project's checks pass. Security reports should use the private reporting link in the relevant repository instead of a public issue.
+Comece pelo README e pelas instruções do projeto. Nosso [guia de colaboração](https://github.com/runictools-com/.github/blob/main/COLLABORATION.md) descreve branches, revisão e responsabilidade compartilhada. Vulnerabilidades devem seguir o [canal privado de segurança](https://github.com/runictools-com/.github/blob/main/SECURITY.md), sem publicar credenciais ou dados de usuários em issues.
